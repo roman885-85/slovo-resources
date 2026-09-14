@@ -1,0 +1,826 @@
+{
+  "format" : "slovo-resources",
+  "items" : [
+    {
+      "fileName" : "мсц'22",
+      "id" : "bible:мсц'22",
+      "kind" : "bible",
+      "size" : 4692659,
+      "subtitle" : "МСЦ'22",
+      "title" : "МСЦ, Новий переклад, 2022",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-22-06dbad.zip",
+      "version" : "09f864fb9b1a"
+    },
+    {
+      "fileName" : "РБО2",
+      "id" : "bible:РБО2",
+      "kind" : "bible",
+      "size" : 3486800,
+      "subtitle" : "РБО2",
+      "title" : "Современный русский перевод, 2015",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-2-146f4e.zip",
+      "version" : "68d0fbb16c8a"
+    },
+    {
+      "fileName" : "Філ",
+      "id" : "bible:Філ",
+      "kind" : "bible",
+      "size" : 5701643,
+      "subtitle" : "ФІЛ · uk",
+      "title" : "Бiблiя. Книги Священного Писання Старого та Нового Завiту, 2004",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-res-0876d7.zip",
+      "version" : "bbf38281951b"
+    },
+    {
+      "fileName" : "ararat",
+      "id" : "bible:ararat",
+      "kind" : "bible",
+      "size" : 1593436,
+      "subtitle" : "Ararat",
+      "title" : "Արարատյան Թարգմանություն մասնիկներով",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-ararat-4a9124.zip",
+      "version" : "2e947dafec13"
+    },
+    {
+      "fileName" : "azj'08",
+      "id" : "bible:azj'08",
+      "kind" : "bible",
+      "size" : 1460379,
+      "subtitle" : "AZJ'08 · az",
+      "title" : "Azərbaycan Bibliyası 2008",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-azj-08-43c7cd.zip",
+      "version" : "d47eae57e43b"
+    },
+    {
+      "fileName" : "bel.songs.vbm",
+      "id" : "songbook:bel.songs.vbm",
+      "kind" : "songbook",
+      "size" : 17260,
+      "subtitle" : "60 песен · Bel Songs",
+      "title" : "Беларускія песні",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-bel.songs-e701b4.zip",
+      "version" : "22876749940d"
+    },
+    {
+      "fileName" : "Belarus_Semuha",
+      "id" : "bible:Belarus_Semuha",
+      "kind" : "bible",
+      "size" : 1368319,
+      "subtitle" : "Belarus_Semuha",
+      "title" : "Білоруська Біблія. Переклад Сёмухи 2002 р.",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-Belarus-Semuha-3163e5.zip",
+      "version" : "db765d4dbcd3"
+    },
+    {
+      "fileName" : "BHS+",
+      "id" : "bible:BHS+",
+      "kind" : "bible",
+      "size" : 1369845,
+      "subtitle" : "BHS+",
+      "title" : "Biblia Hebraica Stuttgartensia with Strongs Numbers",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-BHS-306645.zip",
+      "version" : "d0780f518b20"
+    },
+    {
+      "fileName" : "bhti",
+      "id" : "bible:bhti",
+      "kind" : "bible",
+      "size" : 1781737,
+      "subtitle" : "BHTI · es",
+      "title" : "La Biblia Hispanoamericana (Traducción Interconfesional, versión hispanoamericana), 2011",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-bhti-f99bf0.zip",
+      "version" : "beb7caca3d9d"
+    },
+    {
+      "fileName" : "bible_tuvan_tvn",
+      "id" : "bible:bible_tuvan_tvn",
+      "kind" : "bible",
+      "size" : 1897821,
+      "subtitle" : "TVN",
+      "title" : "Ыдыктыг Библия",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-bible-tuvan-tvn-4285a5.zip",
+      "version" : "1616b99d7be8"
+    },
+    {
+      "fileName" : "bti'15",
+      "id" : "bible:bti'15",
+      "kind" : "bible",
+      "size" : 1971666,
+      "subtitle" : "BTI'15",
+      "title" : "Библия под ред. М.П. Кулакова и М.М. Кулакова, 2015",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-bti-15-09ee51.zip",
+      "version" : "3b7112ee4bf2"
+    },
+    {
+      "fileName" : "bw",
+      "id" : "bible:bw",
+      "kind" : "bible",
+      "size" : 1540069,
+      "subtitle" : "BW",
+      "title" : "Biblia Warszawska, 1975",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-bw-2bbcd6.zip",
+      "version" : "fa6fd0749054"
+    },
+    {
+      "fileName" : "bwp",
+      "id" : "bible:bwp",
+      "kind" : "bible",
+      "size" : 1724823,
+      "subtitle" : "BWP",
+      "title" : "Biblia Warszawsko-praska, 1997",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-bwp-d9f952.zip",
+      "version" : "19799db045ce"
+    },
+    {
+      "fileName" : "cuv'23",
+      "id" : "bible:cuv'23",
+      "kind" : "bible",
+      "size" : 5269756,
+      "subtitle" : "CUV'23",
+      "title" : "БІБЛІЯ Сучасний переклад",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-cuv-23-e640c1.zip",
+      "version" : "790872b6693f"
+    },
+    {
+      "fileName" : "eeb",
+      "id" : "bible:eeb",
+      "kind" : "bible",
+      "size" : 1405509,
+      "subtitle" : "EEB",
+      "title" : "Estonian Bible",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-eeb-775507.zip",
+      "version" : "c0a2e3af2882"
+    },
+    {
+      "fileName" : "elb'06",
+      "id" : "bible:elb'06",
+      "kind" : "bible",
+      "size" : 1573793,
+      "subtitle" : "ELB'06",
+      "title" : "Elberfelder Bibel 2006",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-elb-06-3c8441.zip",
+      "version" : "89b80d782f7e"
+    },
+    {
+      "fileName" : "englishworship.vbm",
+      "id" : "songbook:englishworship.vbm",
+      "kind" : "songbook",
+      "size" : 11877,
+      "subtitle" : "37 песен · English Worship Songs",
+      "title" : "English Worship Songs",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-englishworship-d05fb3.zip",
+      "version" : "71229ea0ff90"
+    },
+    {
+      "fileName" : "glory.vbm",
+      "id" : "songbook:glory.vbm",
+      "kind" : "songbook",
+      "size" : 318693,
+      "subtitle" : "1015 песен · Glory",
+      "title" : "Пісні хвали",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-glory-5fd90e.zip",
+      "version" : "1cd5dd935dab"
+    },
+    {
+      "fileName" : "ivangeliya2.vbm",
+      "id" : "songbook:ivangeliya2.vbm",
+      "kind" : "songbook",
+      "size" : 151449,
+      "subtitle" : "521 песен · ЄП",
+      "title" : "Євангельські Пісні",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-ivangeliya2-2ddf92.zip",
+      "version" : "92fd45d7db36"
+    },
+    {
+      "fileName" : "kbb",
+      "id" : "bible:kbb",
+      "kind" : "bible",
+      "size" : 1358333,
+      "subtitle" : "KBB",
+      "title" : "Kosto Burbulio Biblijos vertimas (1999)",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-kbb-049a0e.zip",
+      "version" : "3bb1ed714564"
+    },
+    {
+      "fileName" : "KJV",
+      "id" : "bible:KJV",
+      "kind" : "bible",
+      "size" : 4515111,
+      "subtitle" : "KJV",
+      "title" : "King James Version",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-KJV-a602a2.zip",
+      "version" : "24d8a0f01dd7"
+    },
+    {
+      "fileName" : "kyb",
+      "id" : "bible:kyb",
+      "kind" : "bible",
+      "size" : 1653230,
+      "subtitle" : "KYB",
+      "title" : "Кыргыз тилиндеги Библия, 2004",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-kyb-1eae51.zip",
+      "version" : "a8a97d0ef6bd"
+    },
+    {
+      "fileName" : "kynt",
+      "id" : "bible:kynt",
+      "kind" : "bible",
+      "size" : 482257,
+      "subtitle" : "KyNT",
+      "title" : "Кыргызча Инжил",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-kynt-4329e3.zip",
+      "version" : "5d40aea5c6c5"
+    },
+    {
+      "fileName" : "kyr",
+      "id" : "bible:kyr",
+      "kind" : "bible",
+      "size" : 439144,
+      "subtitle" : "KYR",
+      "title" : "Кыргыз тилиндеги Жаны Келишим (Луч Надежды)",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-kyr-1ec781.zip",
+      "version" : "6ce62d67eb1a"
+    },
+    {
+      "fileName" : "kzb",
+      "id" : "bible:kzb",
+      "kind" : "bible",
+      "size" : 1984828,
+      "subtitle" : "KZB",
+      "title" : "Киелі кітап, 2010",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-kzb-180896.zip",
+      "version" : "6f96a2c9e6c1"
+    },
+    {
+      "fileName" : "l'84",
+      "id" : "bible:l'84",
+      "kind" : "bible",
+      "size" : 1737323,
+      "subtitle" : "L'84",
+      "title" : "Lutherbibel 1984",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-l-84-06a100.zip",
+      "version" : "36ec5d093764"
+    },
+    {
+      "fileName" : "lepel.vbm",
+      "id" : "songbook:lepel.vbm",
+      "kind" : "songbook",
+      "size" : 21222,
+      "subtitle" : "78 песен · Лепель",
+      "title" : "Церковь ХВЕ г. Лепель",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-lepel-6b8047.zip",
+      "version" : "f495655b1ada"
+    },
+    {
+      "fileName" : "lieder von liederbuch.vbm",
+      "id" : "songbook:lieder von liederbuch.vbm",
+      "kind" : "songbook",
+      "size" : 31339,
+      "subtitle" : "100 песен · Lieder",
+      "title" : "Deu. Liederbuch",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-lieder-von-liederbuch-fd0d6e.zip",
+      "version" : "5d4a9e38a6e1"
+    },
+    {
+      "fileName" : "lut+",
+      "id" : "bible:lut+",
+      "kind" : "bible",
+      "size" : 2203635,
+      "subtitle" : "LUT+",
+      "title" : "Luther Bibel 1912 mit Strong's",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-lut-f44f53.zip",
+      "version" : "1666e7ca425e"
+    },
+    {
+      "fileName" : "MorningLord2014kg.vbm",
+      "id" : "songbook:MorningLord2014kg.vbm",
+      "kind" : "songbook",
+      "size" : 97456,
+      "subtitle" : "488 песен · MorningLord2014",
+      "title" : "Ала-тоо, таңшы Теңирге 2014",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-MorningLord2014kg-d7e715.zip",
+      "version" : "6601035deca6"
+    },
+    {
+      "fileName" : "nrt",
+      "id" : "bible:nrt",
+      "kind" : "bible",
+      "size" : 1766415,
+      "subtitle" : "NRT",
+      "title" : "Новый Русский Перевод (НРП)",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-nrt-6eb377.zip",
+      "version" : "a545c4083ba2"
+    },
+    {
+      "fileName" : "NT_GREEK_TR",
+      "id" : "bible:NT_GREEK_TR",
+      "kind" : "bible",
+      "size" : 329763,
+      "subtitle" : "NT_GREEK_TR",
+      "title" : "Греческий Новый Завет (Textus Receptus, Steph. 1550)",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-NT-GREEK-TR-92d98f.zip",
+      "version" : "dc3bab43dab3"
+    },
+    {
+      "fileName" : "p_s_ua.vbm",
+      "id" : "songbook:p_s_ua.vbm",
+      "kind" : "songbook",
+      "size" : 246011,
+      "subtitle" : "789 песен · Укр.зб. ",
+      "title" : "Український  збірник",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-p-s-ua-711bec.zip",
+      "version" : "228e626174ad"
+    },
+    {
+      "fileName" : "primirenie.vbm",
+      "id" : "songbook:primirenie.vbm",
+      "kind" : "songbook",
+      "size" : 45427,
+      "subtitle" : "228 песен · Primireniye",
+      "title" : "Сборник церкви \"Примирение\"",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-primirenie-28cf97.zip",
+      "version" : "17cc243c221d"
+    },
+    {
+      "fileName" : "psalm_lviv_2008-if.vbm",
+      "id" : "songbook:psalm_lviv_2008-if.vbm",
+      "kind" : "songbook",
+      "size" : 669802,
+      "subtitle" : "2106 песен · ps2008_IF_ред",
+      "title" : "ПСАЛМОСПIВИ Львів 2008 ред",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-psalm-lviv-2008-if-364799.zip",
+      "version" : "ba3b64c89aeb"
+    },
+    {
+      "fileName" : "psalm2000.vbm",
+      "id" : "songbook:psalm2000.vbm",
+      "kind" : "songbook",
+      "size" : 625598,
+      "subtitle" : "2000 песен · П 2000",
+      "title" : "ПСАЛМОСПIВИ 2000",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-psalm2000-9d3b9e.zip",
+      "version" : "01d41403196b"
+    },
+    {
+      "fileName" : "pv2500ezdra.vbm",
+      "id" : "songbook:pv2500ezdra.vbm",
+      "kind" : "songbook",
+      "size" : 895266,
+      "subtitle" : "2500 песен · ПВ2500(Е)",
+      "title" : "Песнь Возрождения 2500 Ездра",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv2500ezdra-fc1016.zip",
+      "version" : "68edcf392cdf"
+    },
+    {
+      "fileName" : "pv2555.vbm",
+      "id" : "songbook:pv2555.vbm",
+      "kind" : "songbook",
+      "size" : 903607,
+      "subtitle" : "2566 песен · pv2555",
+      "title" : "Песнь Возрождения 2555",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv2555-7ace98.zip",
+      "version" : "4a9b9a8e6a62"
+    },
+    {
+      "fileName" : "pv2800.vbm",
+      "id" : "songbook:pv2800.vbm",
+      "kind" : "songbook",
+      "size" : 999080,
+      "subtitle" : "2800 песен · ПВ2800",
+      "title" : "Песнь Возрождения  2800",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv2800-d40b51.zip",
+      "version" : "663f0cb22bff"
+    },
+    {
+      "fileName" : "pv2800ezdra.vbm",
+      "id" : "songbook:pv2800ezdra.vbm",
+      "kind" : "songbook",
+      "size" : 994158,
+      "subtitle" : "2800 песен · ПВ2800(Е)",
+      "title" : "Песнь Возрождения 2800 Ездра",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv2800ezdra-0b7323.zip",
+      "version" : "7fae3d050d5c"
+    },
+    {
+      "fileName" : "pv3055.vbm",
+      "id" : "songbook:pv3055.vbm",
+      "kind" : "songbook",
+      "size" : 1198987,
+      "subtitle" : "3180 песен · pv3055",
+      "title" : "Песнь Возрождения 3055",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv3055-179e46.zip",
+      "version" : "f5f95b27e2db"
+    },
+    {
+      "fileName" : "pv3300.vbm",
+      "id" : "songbook:pv3300.vbm",
+      "kind" : "songbook",
+      "size" : 1118872,
+      "subtitle" : "3301 песен · ПВ3300",
+      "title" : "Песнь возрождения 3300",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv3300-bef739.zip",
+      "version" : "a7886cd83ca6"
+    },
+    {
+      "fileName" : "pv3400.vbm",
+      "id" : "songbook:pv3400.vbm",
+      "kind" : "songbook",
+      "size" : 1099783,
+      "subtitle" : "3400 песен · ПВ3400",
+      "title" : "Песнь возрождения 3400",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv3400-565d64.zip",
+      "version" : "2ba86e838bb3"
+    },
+    {
+      "fileName" : "pvSovetCerkvei.vbm",
+      "id" : "songbook:pvSovetCerkvei.vbm",
+      "kind" : "songbook",
+      "size" : 266043,
+      "subtitle" : "800 песен · pvSovetCerkvei",
+      "title" : "Песнь Воз. Совета Церквей",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pvSovetCerkvei-ec196d.zip",
+      "version" : "370abd33178e"
+    },
+    {
+      "fileName" : "RCCV",
+      "id" : "bible:RCCV",
+      "kind" : "bible",
+      "size" : 1420115,
+      "subtitle" : "RCCV",
+      "title" : "Romanian Corrected Cornilescu Version",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-RCCV-95601f.zip",
+      "version" : "8fec40f8bf43"
+    },
+    {
+      "fileName" : "rst+",
+      "id" : "bible:rst+",
+      "kind" : "bible",
+      "size" : 5518949,
+      "subtitle" : "RST+",
+      "title" : "Библия (Синодальный перевод)",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-rst-f9a4bb.zip",
+      "version" : "0b549ea09389"
+    },
+    {
+      "fileName" : "rsti",
+      "id" : "bible:rsti",
+      "kind" : "bible",
+      "size" : 3333279,
+      "subtitle" : "RSTI",
+      "title" : "Библия. Уточненный синодальный перевод, 2012",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-rsti-fa0ca1.zip",
+      "version" : "88b5dad84793"
+    },
+    {
+      "fileName" : "RU_NT_SL",
+      "id" : "bible:RU_NT_SL",
+      "kind" : "bible",
+      "size" : 443351,
+      "subtitle" : "NT_SL · ru_RU",
+      "title" : "Новый Завет - Слово Жизни",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-RU-NT-SL-e87087.zip",
+      "version" : "a732d2e091ad"
+    },
+    {
+      "fileName" : "RU_RBO_2011",
+      "id" : "bible:RU_RBO_2011",
+      "kind" : "bible",
+      "size" : 1734539,
+      "subtitle" : "RBO_2011 · ru_RU",
+      "title" : "Библия, Современный перевод, Российское Библейское Общество, 2011г.",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-RU-RBO-2011-ea7343.zip",
+      "version" : "e6ecaed7b137"
+    },
+    {
+      "fileName" : "RU_RST",
+      "id" : "bible:RU_RST",
+      "kind" : "bible",
+      "size" : 1707771,
+      "subtitle" : "RST",
+      "title" : "Русский Синодальный текст (современная редакция)",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-RU-RST-dd7a0a.zip",
+      "version" : "4b9b7c535623"
+    },
+    {
+      "fileName" : "rv'60+",
+      "id" : "bible:rv'60+",
+      "kind" : "bible",
+      "size" : 2458279,
+      "subtitle" : "RV'60+",
+      "title" : "La Santa Biblia Reina-Valera con números Strong, 1960",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-rv-60-d0ac55.zip",
+      "version" : "7866684661c4"
+    },
+    {
+      "fileName" : "s'00",
+      "id" : "bible:s'00",
+      "kind" : "bible",
+      "size" : 1589038,
+      "subtitle" : "S'00 · de",
+      "title" : "Schlachter 2000",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-s-00-11ebd7.zip",
+      "version" : "25ffff0bd017"
+    },
+    {
+      "fileName" : "sch'51",
+      "id" : "bible:sch'51",
+      "kind" : "bible",
+      "size" : 1553031,
+      "subtitle" : "SCH'51",
+      "title" : "Schlachter 1951",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-sch-51-f755bc.zip",
+      "version" : "29f09aa8aabc"
+    },
+    {
+      "fileName" : "sion.vbm",
+      "id" : "songbook:sion.vbm",
+      "kind" : "songbook",
+      "size" : 313703,
+      "subtitle" : "1178 песен · Sion",
+      "title" : "Cîntările Evangheliei",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-sion-d045bc.zip",
+      "version" : "d448639419bc"
+    },
+    {
+      "fileName" : "snp",
+      "id" : "bible:snp",
+      "kind" : "bible",
+      "size" : 1655849,
+      "subtitle" : "SNP",
+      "title" : "Biblia, to jest Pismo Święte Starego i Nowego Przymierza",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-snp-33d61c.zip",
+      "version" : "5d555cac8cb6"
+    },
+    {
+      "fileName" : "spiewnik 2000 piesni.vbm",
+      "id" : "songbook:spiewnik 2000 piesni.vbm",
+      "kind" : "songbook",
+      "size" : 723071,
+      "subtitle" : "2000 песен · S 2000 P",
+      "title" : "Śpiewnik 2000 pieśni",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-spiewnik-2000-piesni-353675.zip",
+      "version" : "e13ff497fd8d"
+    },
+    {
+      "fileName" : "SpiritualSongsKg.vbm",
+      "id" : "songbook:SpiritualSongsKg.vbm",
+      "kind" : "songbook",
+      "size" : 118905,
+      "subtitle" : "506 песен · SpiritualSongsKg",
+      "title" : "Рухий ырлар жыйнагы",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-SpiritualSongsKg-a70a82.zip",
+      "version" : "19c687ea4160"
+    },
+    {
+      "fileName" : "ua_derkatch",
+      "id" : "bible:ua_derkatch",
+      "kind" : "bible",
+      "size" : 1083238,
+      "subtitle" : "UAD",
+      "title" : "Український Новий Заповіт. Переклад Деркача 1992 р.",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-ua-derkatch-190cfa.zip",
+      "version" : "906bfe2fe27c"
+    },
+    {
+      "fileName" : "UA_Gyzha",
+      "id" : "bible:UA_Gyzha",
+      "kind" : "bible",
+      "size" : 3230346,
+      "subtitle" : "UA_Gyzha",
+      "title" : "Українська Біблія. Переклад Гижа 2006 р.",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-UA-Gyzha-39b3d9.zip",
+      "version" : "ebeb2684c87b"
+    },
+    {
+      "fileName" : "UA_Homenko",
+      "id" : "bible:UA_Homenko",
+      "kind" : "bible",
+      "size" : 3783661,
+      "subtitle" : "UA_Homenko",
+      "title" : "Українская Біблія. Переклад Хоменко",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-UA-Homenko-3a67d1.zip",
+      "version" : "471e84ddd90a"
+    },
+    {
+      "fileName" : "UA_Kulish",
+      "id" : "bible:UA_Kulish",
+      "kind" : "bible",
+      "size" : 3149763,
+      "subtitle" : "UA_Kulish",
+      "title" : "Українская Біблія. Переклад П.Куліша та І.Пулюя, 1871",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-UA-Kulish-704244.zip",
+      "version" : "b92b661a9f91"
+    },
+    {
+      "fileName" : "UA_Ogienko",
+      "id" : "bible:UA_Ogienko",
+      "kind" : "bible",
+      "size" : 3094775,
+      "subtitle" : "UA_Ogienko",
+      "title" : "Українська Біблія. Переклад Огієнка 1962 г.",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-UA-Ogienko-617588.zip",
+      "version" : "d9920fbfc814"
+    },
+    {
+      "fileName" : "UA_Turkonyak",
+      "id" : "bible:UA_Turkonyak",
+      "kind" : "bible",
+      "size" : 3421004,
+      "subtitle" : "UA_Turkonyak",
+      "title" : "Українська Біблія. Переклад Турконяка 1997 р.",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-UA-Turkonyak-fec9c4.zip",
+      "version" : "d273e1c75771"
+    },
+    {
+      "fileName" : "ubg",
+      "id" : "bible:ubg",
+      "kind" : "bible",
+      "size" : 1503881,
+      "subtitle" : "UBG",
+      "title" : "Uwspółcześniona Biblia Gdańska, 2018",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-ubg-b67fc3.zip",
+      "version" : "23e38d6e26a1"
+    },
+    {
+      "fileName" : "ubt2020",
+      "id" : "bible:ubt2020",
+      "kind" : "bible",
+      "size" : 5268051,
+      "subtitle" : "UBT2020",
+      "title" : "Сучасний переклад Рафаїла Турконяка, УБТ Київ 2020 (UBT2020)",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-ubt2020-c56c56.zip",
+      "version" : "f4c5de8f1d83"
+    },
+    {
+      "fileName" : "ubt2022",
+      "id" : "bible:ubt2022",
+      "kind" : "bible",
+      "size" : 4918501,
+      "subtitle" : "UBT2022",
+      "title" : "Українська Біблія. Переклад Турконяка 2022 р.",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-ubt2022-c56930.zip",
+      "version" : "d78c5c79925f"
+    },
+    {
+      "fileName" : "UKJV.bbl.mybible",
+      "id" : "bible:UKJV.bbl.mybible",
+      "kind" : "bible",
+      "size" : 1908840,
+      "subtitle" : "UKJV",
+      "title" : "Updated King James Version",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-UKJV.bbl-fe7fa7.zip",
+      "version" : "dba572970b69"
+    },
+    {
+      "fileName" : "umt",
+      "id" : "bible:umt",
+      "kind" : "bible",
+      "size" : 975036,
+      "subtitle" : "UMT",
+      "title" : "Свята Біблія [Новий Заповіт]: Сучасною Мовою, 2007",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-umt-d241c9.zip",
+      "version" : "cf168a4dfd6b"
+    },
+    {
+      "fileName" : "umt'07",
+      "id" : "bible:umt'07",
+      "kind" : "bible",
+      "size" : 3705054,
+      "subtitle" : "UMT'07",
+      "title" : "Свята Біблія: Сучасною мовою",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-umt-07-5ef31b.zip",
+      "version" : "034babdf7e7c"
+    },
+    {
+      "fileName" : "uzb",
+      "id" : "bible:uzb",
+      "kind" : "bible",
+      "size" : 1802461,
+      "subtitle" : "UZB",
+      "title" : "Ўзбек тилидаги Муқаддас Китоб, 2013",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-uzb-a315f4.zip",
+      "version" : "9f40673e83f2"
+    },
+    {
+      "fileName" : "uzbb'16",
+      "id" : "bible:uzbb'16",
+      "kind" : "bible",
+      "size" : 1844090,
+      "subtitle" : "UZBB'16",
+      "title" : "Муқаддас Китоб",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-uzbb-16-ef1f94.zip",
+      "version" : "720277b5402f"
+    },
+    {
+      "fileName" : "uzc",
+      "id" : "bible:uzc",
+      "kind" : "bible",
+      "size" : 473948,
+      "subtitle" : "UZC",
+      "title" : "Муқаддас Китоб: Инжил, 2008",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-uzc-a31787.zip",
+      "version" : "a74e520b34e6"
+    },
+    {
+      "fileName" : "uzibt",
+      "id" : "bible:uzibt",
+      "kind" : "bible",
+      "size" : 679425,
+      "subtitle" : "UZIBT",
+      "title" : "Ўзбек тилидаги Инжил, 2008",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-uzibt-b352f3.zip",
+      "version" : "62dc78f6f211"
+    },
+    {
+      "fileName" : "uzibtl",
+      "id" : "bible:uzibtl",
+      "kind" : "bible",
+      "size" : 583900,
+      "subtitle" : "UZIBTL",
+      "title" : "O‘zbek tilidagi Injil, 2008",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-uzibtl-4b104d.zip",
+      "version" : "5795a26a0da8"
+    },
+    {
+      "fileName" : "uzlb'16",
+      "id" : "bible:uzlb'16",
+      "kind" : "bible",
+      "size" : 1540086,
+      "subtitle" : "UZLB'16",
+      "title" : "Muqaddas Kitob",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-uzlb-16-8996d2.zip",
+      "version" : "28ed10e275e4"
+    },
+    {
+      "fileName" : "uznt",
+      "id" : "bible:uznt",
+      "kind" : "bible",
+      "size" : 391507,
+      "subtitle" : "UZNT",
+      "title" : "Yangi Ahd o'zbek tilida (latin)",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-uznt-9e566c.zip",
+      "version" : "b65404d67557"
+    },
+    {
+      "fileName" : "uzv",
+      "id" : "bible:uzv",
+      "kind" : "bible",
+      "size" : 1845075,
+      "subtitle" : "UZV",
+      "title" : "Ўзбек тилидаги Муқаддас Китоб (ЎЗМК), 2013",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-uzv-a2f678.zip",
+      "version" : "50192943342f"
+    },
+    {
+      "fileName" : "uzvl",
+      "id" : "bible:uzvl",
+      "kind" : "bible",
+      "size" : 1575679,
+      "subtitle" : "UZVL",
+      "title" : "O‘zbek tilidagi Muqaddas Kitob, 2013",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/module-uzvl-89617c.zip",
+      "version" : "250a18c08bbd"
+    },
+    {
+      "fileName" : "BackGrounds",
+      "id" : "backgrounds",
+      "kind" : "backgrounds",
+      "size" : 9064649,
+      "subtitle" : "картинки для підкладки слайда",
+      "title" : "Фони слайдів",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/BackGrounds.zip",
+      "version" : "6b97fcaa7520"
+    },
+    {
+      "fileName" : "Templates",
+      "id" : "templates",
+      "kind" : "templates",
+      "size" : 38870517,
+      "subtitle" : "авторські схеми .sch з картинками",
+      "title" : "Шаблони слайдів VisioBible",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/Templates.zip",
+      "version" : "0b0606767100"
+    },
+    {
+      "fileName" : "Fonts",
+      "id" : "fonts",
+      "kind" : "fonts",
+      "size" : 59625,
+      "subtitle" : "шрифти для шаблонів",
+      "title" : "Шрифти",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/Fonts.zip",
+      "version" : "bcd78c33c338"
+    },
+    {
+      "fileName" : "RemoteAPI",
+      "id" : "web",
+      "kind" : "web",
+      "size" : 70843,
+      "subtitle" : "сторінки для виводу в браузер",
+      "title" : "Сторінки веб-слайдів",
+      "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/RemoteAPI.zip",
+      "version" : "cc2ba2855e61"
+    }
+  ],
+  "updated" : "2026-09-14"
+}
