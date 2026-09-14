@@ -52,14 +52,14 @@
       "version" : "d47eae57e43b"
     },
     {
-      "fileName" : "bel.songs.vbm",
-      "id" : "songbook:bel.songs.vbm",
+      "fileName" : "bel.songs.songbook",
+      "id" : "songbook:bel.songs",
       "kind" : "songbook",
-      "size" : 17260,
+      "size" : 17766,
       "subtitle" : "60 песен · Bel Songs",
       "title" : "Беларускія песні",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-bel.songs-e701b4.zip",
-      "version" : "22876749940d"
+      "version" : "827ee17f1796"
     },
     {
       "fileName" : "Belarus_Semuha",
@@ -162,34 +162,34 @@
       "version" : "89b80d782f7e"
     },
     {
-      "fileName" : "englishworship.vbm",
-      "id" : "songbook:englishworship.vbm",
+      "fileName" : "englishworship.songbook",
+      "id" : "songbook:englishworship",
       "kind" : "songbook",
-      "size" : 11877,
+      "size" : 10678,
       "subtitle" : "37 песен · English Worship Songs",
       "title" : "English Worship Songs",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-englishworship-d05fb3.zip",
-      "version" : "71229ea0ff90"
+      "version" : "709f8b861894"
     },
     {
-      "fileName" : "glory.vbm",
-      "id" : "songbook:glory.vbm",
+      "fileName" : "glory.songbook",
+      "id" : "songbook:glory",
       "kind" : "songbook",
-      "size" : 318693,
+      "size" : 328681,
       "subtitle" : "1015 песен · Glory",
       "title" : "Пісні хвали",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-glory-5fd90e.zip",
-      "version" : "1cd5dd935dab"
+      "version" : "9530bf2c7e40"
     },
     {
-      "fileName" : "ivangeliya2.vbm",
-      "id" : "songbook:ivangeliya2.vbm",
+      "fileName" : "ivangeliya2.songbook",
+      "id" : "songbook:ivangeliya2",
       "kind" : "songbook",
-      "size" : 151449,
+      "size" : 157888,
       "subtitle" : "521 песен · ЄП",
       "title" : "Євангельські Пісні",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-ivangeliya2-2ddf92.zip",
-      "version" : "92fd45d7db36"
+      "version" : "00c92b8ffd47"
     },
     {
       "fileName" : "kbb",
@@ -262,24 +262,24 @@
       "version" : "36ec5d093764"
     },
     {
-      "fileName" : "lepel.vbm",
-      "id" : "songbook:lepel.vbm",
+      "fileName" : "lepel.songbook",
+      "id" : "songbook:lepel",
       "kind" : "songbook",
-      "size" : 21222,
+      "size" : 21933,
       "subtitle" : "78 песен · Лепель",
       "title" : "Церковь ХВЕ г. Лепель",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-lepel-6b8047.zip",
-      "version" : "f495655b1ada"
+      "version" : "abbcaeee0768"
     },
     {
-      "fileName" : "lieder von liederbuch.vbm",
-      "id" : "songbook:lieder von liederbuch.vbm",
+      "fileName" : "lieder von liederbuch.songbook",
+      "id" : "songbook:lieder von liederbuch",
       "kind" : "songbook",
-      "size" : 31339,
+      "size" : 27517,
       "subtitle" : "100 песен · Lieder",
       "title" : "Deu. Liederbuch",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-lieder-von-liederbuch-fd0d6e.zip",
-      "version" : "5d4a9e38a6e1"
+      "version" : "07b5f8c0ee54"
     },
     {
       "fileName" : "lut+",
@@ -292,14 +292,14 @@
       "version" : "1666e7ca425e"
     },
     {
-      "fileName" : "MorningLord2014kg.vbm",
-      "id" : "songbook:MorningLord2014kg.vbm",
+      "fileName" : "MorningLord2014kg.songbook",
+      "id" : "songbook:MorningLord2014kg",
       "kind" : "songbook",
-      "size" : 97456,
+      "size" : 102456,
       "subtitle" : "488 песен · MorningLord2014",
       "title" : "Ала-тоо, таңшы Теңирге 2014",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-MorningLord2014kg-d7e715.zip",
-      "version" : "6601035deca6"
+      "version" : "e7be6231e8d6"
     },
     {
       "fileName" : "nrt",
@@ -322,124 +322,124 @@
       "version" : "dc3bab43dab3"
     },
     {
-      "fileName" : "p_s_ua.vbm",
-      "id" : "songbook:p_s_ua.vbm",
+      "fileName" : "p_s_ua.songbook",
+      "id" : "songbook:p_s_ua",
       "kind" : "songbook",
-      "size" : 246011,
+      "size" : 253495,
       "subtitle" : "789 песен · Укр.зб. ",
       "title" : "Український  збірник",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-p-s-ua-711bec.zip",
-      "version" : "228e626174ad"
+      "version" : "46883b791afc"
     },
     {
-      "fileName" : "primirenie.vbm",
-      "id" : "songbook:primirenie.vbm",
+      "fileName" : "primirenie.songbook",
+      "id" : "songbook:primirenie",
       "kind" : "songbook",
-      "size" : 45427,
+      "size" : 48174,
       "subtitle" : "228 песен · Primireniye",
       "title" : "Сборник церкви \"Примирение\"",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-primirenie-28cf97.zip",
-      "version" : "17cc243c221d"
+      "version" : "06925469ded8"
     },
     {
-      "fileName" : "psalm_lviv_2008-if.vbm",
-      "id" : "songbook:psalm_lviv_2008-if.vbm",
+      "fileName" : "psalm_lviv_2008-if.songbook",
+      "id" : "songbook:psalm_lviv_2008-if",
       "kind" : "songbook",
-      "size" : 669802,
+      "size" : 691449,
       "subtitle" : "2106 песен · ps2008_IF_ред",
       "title" : "ПСАЛМОСПIВИ Львів 2008 ред",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-psalm-lviv-2008-if-364799.zip",
-      "version" : "ba3b64c89aeb"
+      "version" : "c4fb01c50ca4"
     },
     {
-      "fileName" : "psalm2000.vbm",
-      "id" : "songbook:psalm2000.vbm",
+      "fileName" : "psalm2000.songbook",
+      "id" : "songbook:psalm2000",
       "kind" : "songbook",
-      "size" : 625598,
+      "size" : 646366,
       "subtitle" : "2000 песен · П 2000",
       "title" : "ПСАЛМОСПIВИ 2000",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-psalm2000-9d3b9e.zip",
-      "version" : "01d41403196b"
+      "version" : "8cbcede02607"
     },
     {
-      "fileName" : "pv2500ezdra.vbm",
-      "id" : "songbook:pv2500ezdra.vbm",
+      "fileName" : "pv2500ezdra.songbook",
+      "id" : "songbook:pv2500ezdra",
       "kind" : "songbook",
-      "size" : 895266,
+      "size" : 935226,
       "subtitle" : "2500 песен · ПВ2500(Е)",
       "title" : "Песнь Возрождения 2500 Ездра",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv2500ezdra-fc1016.zip",
-      "version" : "68edcf392cdf"
+      "version" : "6be57cf340fb"
     },
     {
-      "fileName" : "pv2555.vbm",
-      "id" : "songbook:pv2555.vbm",
+      "fileName" : "pv2555.songbook",
+      "id" : "songbook:pv2555",
       "kind" : "songbook",
-      "size" : 903607,
+      "size" : 923130,
       "subtitle" : "2566 песен · pv2555",
       "title" : "Песнь Возрождения 2555",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv2555-7ace98.zip",
-      "version" : "4a9b9a8e6a62"
+      "version" : "c499fdbd8f22"
     },
     {
-      "fileName" : "pv2800.vbm",
-      "id" : "songbook:pv2800.vbm",
+      "fileName" : "pv2800.songbook",
+      "id" : "songbook:pv2800",
       "kind" : "songbook",
-      "size" : 999080,
+      "size" : 1041613,
       "subtitle" : "2800 песен · ПВ2800",
       "title" : "Песнь Возрождения  2800",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv2800-d40b51.zip",
-      "version" : "663f0cb22bff"
+      "version" : "5958c6272d64"
     },
     {
-      "fileName" : "pv2800ezdra.vbm",
-      "id" : "songbook:pv2800ezdra.vbm",
+      "fileName" : "pv2800ezdra.songbook",
+      "id" : "songbook:pv2800ezdra",
       "kind" : "songbook",
-      "size" : 994158,
+      "size" : 1037617,
       "subtitle" : "2800 песен · ПВ2800(Е)",
       "title" : "Песнь Возрождения 2800 Ездра",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv2800ezdra-0b7323.zip",
-      "version" : "7fae3d050d5c"
+      "version" : "572e58dcef8b"
     },
     {
-      "fileName" : "pv3055.vbm",
-      "id" : "songbook:pv3055.vbm",
+      "fileName" : "pv3055.songbook",
+      "id" : "songbook:pv3055",
       "kind" : "songbook",
-      "size" : 1198987,
+      "size" : 1179852,
       "subtitle" : "3180 песен · pv3055",
       "title" : "Песнь Возрождения 3055",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv3055-179e46.zip",
-      "version" : "f5f95b27e2db"
+      "version" : "002a00a87232"
     },
     {
-      "fileName" : "pv3300.vbm",
-      "id" : "songbook:pv3300.vbm",
+      "fileName" : "pv3300.songbook",
+      "id" : "songbook:pv3300",
       "kind" : "songbook",
-      "size" : 1118872,
+      "size" : 1139704,
       "subtitle" : "3301 песен · ПВ3300",
       "title" : "Песнь возрождения 3300",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv3300-bef739.zip",
-      "version" : "a7886cd83ca6"
+      "version" : "392736d2f679"
     },
     {
-      "fileName" : "pv3400.vbm",
-      "id" : "songbook:pv3400.vbm",
+      "fileName" : "pv3400.songbook",
+      "id" : "songbook:pv3400",
       "kind" : "songbook",
-      "size" : 1099783,
+      "size" : 1121287,
       "subtitle" : "3400 песен · ПВ3400",
       "title" : "Песнь возрождения 3400",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pv3400-565d64.zip",
-      "version" : "2ba86e838bb3"
+      "version" : "4f35e941edfc"
     },
     {
-      "fileName" : "pvSovetCerkvei.vbm",
-      "id" : "songbook:pvSovetCerkvei.vbm",
+      "fileName" : "pvSovetCerkvei.songbook",
+      "id" : "songbook:pvSovetCerkvei",
       "kind" : "songbook",
-      "size" : 266043,
+      "size" : 276440,
       "subtitle" : "800 песен · pvSovetCerkvei",
       "title" : "Песнь Воз. Совета Церквей",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-pvSovetCerkvei-ec196d.zip",
-      "version" : "370abd33178e"
+      "version" : "bee69e01d8f0"
     },
     {
       "fileName" : "RCCV",
@@ -532,14 +532,14 @@
       "version" : "29f09aa8aabc"
     },
     {
-      "fileName" : "sion.vbm",
-      "id" : "songbook:sion.vbm",
+      "fileName" : "sion.songbook",
+      "id" : "songbook:sion",
       "kind" : "songbook",
-      "size" : 313703,
+      "size" : 287053,
       "subtitle" : "1178 песен · Sion",
       "title" : "Cîntările Evangheliei",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-sion-d045bc.zip",
-      "version" : "d448639419bc"
+      "version" : "3aee57adaf37"
     },
     {
       "fileName" : "snp",
@@ -552,24 +552,24 @@
       "version" : "5d555cac8cb6"
     },
     {
-      "fileName" : "spiewnik 2000 piesni.vbm",
-      "id" : "songbook:spiewnik 2000 piesni.vbm",
+      "fileName" : "spiewnik 2000 piesni.songbook",
+      "id" : "songbook:spiewnik 2000 piesni",
       "kind" : "songbook",
-      "size" : 723071,
+      "size" : 646780,
       "subtitle" : "2000 песен · S 2000 P",
       "title" : "Śpiewnik 2000 pieśni",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-spiewnik-2000-piesni-353675.zip",
-      "version" : "e13ff497fd8d"
+      "version" : "ce8b7886461c"
     },
     {
-      "fileName" : "SpiritualSongsKg.vbm",
-      "id" : "songbook:SpiritualSongsKg.vbm",
+      "fileName" : "SpiritualSongsKg.songbook",
+      "id" : "songbook:SpiritualSongsKg",
       "kind" : "songbook",
-      "size" : 118905,
+      "size" : 123982,
       "subtitle" : "506 песен · SpiritualSongsKg",
       "title" : "Рухий ырлар жыйнагы",
       "url" : "https://github.com/roman885-85/slovo-resources/releases/download/files/songbook-SpiritualSongsKg-a70a82.zip",
-      "version" : "19c687ea4160"
+      "version" : "e97e74ac476c"
     },
     {
       "fileName" : "ua_derkatch",
